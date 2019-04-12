@@ -11,7 +11,7 @@
 
 
 
-# v2ray 部署在 openshift starter
+# v2ray 部署在 arukas
 鉴于转载网友太多，甚至还发到了国内网站上宣传，为避免不必要麻烦，docker镜像已经删除，需要的请自行fork本
 项目，然后自行部署镜像！ 
 
